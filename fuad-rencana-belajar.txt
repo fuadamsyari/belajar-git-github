@@ -1,0 +1,4 @@
+rencanan belajar
+- Belajar JS lanjutan
+- belajar laravel
+- belajar Node js
