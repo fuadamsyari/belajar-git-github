@@ -1,0 +1,6 @@
+rencanan belajar
+- Belajar JS lanjutan
+   *belajar sampai full video
+   *sambil belajar framework
+- belajar laravel
+- belajar Node js
