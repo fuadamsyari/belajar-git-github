@@ -3,4 +3,4 @@ Fuad Resolusi
 - Membuat Website dengan laravel
 - Ikut Forum WPU
 - Belajar Vue JS
-- Belajar Phyton
+- Mengelola akun youtube
