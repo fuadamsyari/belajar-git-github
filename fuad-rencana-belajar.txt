@@ -4,5 +4,6 @@ rencanan belajar
    *sambil belajar framework
 - belajar laravel
 - belajar Node js
-- belajar angular js
-- belajar php
+- belajar vue js
+  * belajar juga vuetify
+- belajar react js
