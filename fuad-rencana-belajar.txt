@@ -4,3 +4,4 @@ rencanan belajar
    *sambil belajar framework
 - belajar laravel
 - belajar Node js
+- belajar vue js
