@@ -5,3 +5,5 @@ rencanan belajar
 - belajar laravel
 - belajar Node js
 - belajar vue js
+  * belajar juga vuetify
+- belajar react js
