@@ -2,3 +2,5 @@ Fuad Resolusi
 - Konsisten belajar pemrograman
 - Membuat Website dengan laravel
 - Ikut Forum WPU
+- Belajar Vue JS
+- Belajar Phyton
